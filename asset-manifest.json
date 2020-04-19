@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/HenryAlvarez/HenryAlvarez.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/HenryAlvarez/HenryAlvarez.github.io/static/js/main.cd66c527.chunk.js",
+    "main.js.map": "/HenryAlvarez/HenryAlvarez.github.io/static/js/main.cd66c527.chunk.js.map",
+    "runtime-main.js": "/HenryAlvarez/HenryAlvarez.github.io/static/js/runtime-main.ed854c28.js",
+    "runtime-main.js.map": "/HenryAlvarez/HenryAlvarez.github.io/static/js/runtime-main.ed854c28.js.map",
+    "static/js/2.6c428f77.chunk.js": "/HenryAlvarez/HenryAlvarez.github.io/static/js/2.6c428f77.chunk.js",
+    "static/js/2.6c428f77.chunk.js.map": "/HenryAlvarez/HenryAlvarez.github.io/static/js/2.6c428f77.chunk.js.map",
+    "index.html": "/HenryAlvarez/HenryAlvarez.github.io/index.html",
+    "precache-manifest.bd2a7ed74537d7b8e759e3d8278ed1f0.js": "/HenryAlvarez/HenryAlvarez.github.io/precache-manifest.bd2a7ed74537d7b8e759e3d8278ed1f0.js",
+    "service-worker.js": "/HenryAlvarez/HenryAlvarez.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/HenryAlvarez/HenryAlvarez.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.6c428f77.chunk.js.LICENSE.txt": "/HenryAlvarez/HenryAlvarez.github.io/static/js/2.6c428f77.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/HenryAlvarez/HenryAlvarez.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed854c28.js",
+    "static/js/2.6c428f77.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.cd66c527.chunk.js"
+  ]
+}
